@@ -18,7 +18,7 @@ users of their available free time based on their daily performance.
 - Calculate free time based on XP at the end of each day
 - Notify users about their available free time
 - Provide a dashboard to track progress and statistics
-- Big Picture Event Storming (TODO)
+- [Big Picture Event Storming](docs/diagrams/big-picture-event-storming.png)
 
 ### Non-Functional Requirements
 - Mobile-friendly design with strong iOS support (and other devices preferred)
@@ -37,7 +37,7 @@ users of their available free time based on their daily performance.
 
 *This technology stack ensures cross-platform reach, modularity, and cost efficiency.*
 
-## Architecture & Design (Planned)
-- Design Level Event Storing (TODO)
+## Architecture & Design (In progress)
+- [Design Level Event Storming](docs/diagrams/design-level-event-storming.png)
 - C1/C2/C3/C4 Diagrams (TODO)
 - Architecture Decision Records (TODO)
