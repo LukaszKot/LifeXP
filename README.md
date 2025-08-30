@@ -27,7 +27,7 @@ users of their available free time based on their daily performance.
 - WCAG accessibility compliance
 
 ## Technology Stack
-- **Frontend:** Server-side rendered XHTML and JavaScript
+- **Frontend:** Server-side rendered XHTML and TypeScript
 - **Backend:** Azure Functions (Python)
 - **Database:** PostgreSQL
 - **Hosting:** Azure Functions and Azure Database for PostgreSQL
